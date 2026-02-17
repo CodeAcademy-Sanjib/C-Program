@@ -1,1 +1,1 @@
-# C-Program
+# Student Management System
