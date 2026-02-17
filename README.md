@@ -51,18 +51,7 @@ This project demonstrates:
 - Docker (Optional)
 
 ## Project Structure
-student-management-system/
-│
-├── backend/
-│   ├── controller/
-│   ├── service/
-│   ├── repository/
-│   └── model/
-│
-├── frontend/
-│   ├── components/
-│   ├── pages/
-│   └── services/
+<img width="329" height="378" alt="image" src="https://github.com/user-attachments/assets/622e5aae-acdf-4513-8fbd-2805fcacf480" />
 
 
 
